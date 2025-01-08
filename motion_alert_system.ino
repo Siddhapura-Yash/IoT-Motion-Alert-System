@@ -3,8 +3,8 @@
 #include <UniversalTelegramBot.h>
 
 // WiFi and Telegram credentials
-const char* ssid = "Lenovo";
-const char* password = "123456789";
+const char* ssid = "Lenovo"; // Your Wi-Fi Name
+const char* password = "123456789"; // Wi-Fi Password
 #define BOTtoken "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // Bot token from BotFather
 #define CHAT_ID "xxxxxxxxxxxx" // Your chat ID
 
