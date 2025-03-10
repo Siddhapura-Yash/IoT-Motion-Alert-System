@@ -31,7 +31,8 @@ A simple yet effective security solution that detects motion and instantly notif
 - **Additional Sensors** for improved accuracy.  
 - **Custom Alerts** with images, video, or location data.  
 
-🔗 Connect on LinkedIn: https://www.linkedin.com/in/siddhapurayash/
+🔗 Connect on LinkedIn: https://www.linkedin.com/in/siddhapurayash/\
+
 📺 **Demo Video:** https://youtu.be/n3t3H6vUBAI?si=aJqQbXdPHkyaCy1l
 
 Let me know if you need any modifications! 🚀
