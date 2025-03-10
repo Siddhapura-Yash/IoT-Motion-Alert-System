@@ -34,5 +34,3 @@ A simple yet effective security solution that detects motion and instantly notif
 🔗 Connect on LinkedIn: https://www.linkedin.com/in/siddhapurayash/\
 
 📺 **Demo Video:** https://youtu.be/n3t3H6vUBAI?si=aJqQbXdPHkyaCy1l
-
-Let me know if you need any modifications! 🚀
